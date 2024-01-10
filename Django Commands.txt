@@ -1,0 +1,7 @@
+Learnig Django Commands
+1.pip install django=installing django
+2.python -m django --version=to check whether django installed or not and find verison if installed
+3.django-admin=to get all sub-commands 
+4.pip install virtualenv=creating virtual environment for django project
+5.python -m venv myenv=Replace "myenv" with the name you want for your virtual environment
+
