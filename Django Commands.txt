@@ -4,4 +4,4 @@ Learnig Django Commands
 3.django-admin=to get all sub-commands 
 4.pip install virtualenv=creating virtual environment for django project
 5.python -m venv myenv=Replace "myenv" with the name you want for your virtual environment
-
+6.django-admin startproject project_name=creating project
